@@ -15,9 +15,10 @@
 #### Technologies: TensorFlow, Python, HTML, CSS
 #### Description: Une application web utilisant le transfer learning pour identifier l'espèce d'un oiseau à partir d'une image.
 
-### Application mobile de révision
+###[Application mobile de révision](URL)
 #### Technologies: Flutter, Node.js, MongoDB
 #### Description: Une application mobile permettant de créer et de résoudre des questionnaires dans différentes matières.
+[]([URL](https://github.com/MathieuLebrun/mds_projet))
 ### Site web d'outils en ligne
 #### Technologies: Angular, HTML, CSS
 #### Description: Un site web regroupant une collection d'outils utiles au quotidien (générateurs, calculateurs, convertisseurs).
