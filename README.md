@@ -23,6 +23,21 @@
 #### Technologies: Angular, HTML, CSS
 #### Description: Un site web regroupant une collection d'outils utiles au quotidien (générateurs, calculateurs, convertisseurs).
 ## 💻 Expérience professionnelle
+### 🏢 Enodea — Migration technologique et développement Flutter
+Participation à la migration des applications internes de Xamarin vers Flutter, avec une attention particulière portée sur la modernisation technique, l’optimisation des performances et l’amélioration de l’UX/UI.
+Noda Livraison (iOS / Android) – Application mobile de suivi de livraison en temps réel
+Modules spécifiques de Noda CRM (Tablette) – Gestion commerciale et saisie de commandes
+Refonte complète de Noda Logistique (iOS / Android / Desktop) – Application de gestion des stocks et préparation en entrepôt
+
+Contribution à la librairie Flutter interne :
+• Gestion centralisée des permissions (caméra, GPS, stockage, etc.)
+• Développement d’un widget de scan de codes-barres multi-format
+• Intégration de la prise et gestion de photos (caméra et galerie)
+
+ Noda Livraison – [App Store](https://apps.apple.com/us/app/noda-crm/id6740987166?l=fr-FR)
+ Noda CRM – [Google Play](https://apps.apple.com/us/app/noda-crm/id6740987166?l=fr-FR)
+
+
 ### AzurTechResearch: Développement d'applications mobiles, refonte de sites web, intégration continue.
 
 ### GIE Arnault Tzanck: Maintenance du parc informatique, support utilisateur, déploiement d'outils.
